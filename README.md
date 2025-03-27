@@ -29,3 +29,7 @@ Delete:
 Get All (depois):
 
 ![get_todos_depois](https://github.com/user-attachments/assets/85fe300e-532b-4f4a-aa74-14fdb469fca3)
+
+Tabela em H2(final):
+
+![image](https://github.com/user-attachments/assets/5de5a3f4-3cb9-4de3-b8c2-3c43c2cbce50)
