@@ -12,7 +12,7 @@ Post 3:
 
 Get All:
 
-![get_todos_depois](https://github.com/user-attachments/assets/59ba02e4-8682-435f-9973-9111b906333b)
+![get_todos](https://github.com/user-attachments/assets/21c6384c-39ba-4cf2-9967-f6d6566c9244)
 
 Get ID:
 
